@@ -1,5 +1,8 @@
 # Cypress Github Actions Example
 
+![cypress-github-action](https://github.com/ayhanmetin/cypress-github-actions-example/assets/108268012/fc928542-d474-4dbf-b7e0-5585856782c8)
+
+
 ## Overview
 
 This repository demonstrates the integration of [Cypress](https://www.cypress.io/), a powerful front-end testing tool, with [GitHub Actions](https://github.com/features/actions) for continuous integration and deployment (CI/CD). 
